@@ -62,7 +62,8 @@ Expected output:
 |      signal   |       0.73         |   0.64 |   0.68   | 34025   |
 | avg / total   |       0.79         |   0.80 |   0.79   | 100000  |
 
-# Implement ML tutorials as Jupyter notebook (higgsml_opendata_simplest.py.ipynb and higgsml_opendata_tmva.ipynb) 
+# Implement ML tutorials as Jupyter notebook 
+## (higgsml_opendata_simplest.py.ipynb and higgsml_opendata_tmva.ipynb) 
 
 To implement the tasks of ML in different environments, it was decided to use a container docker, which in turn is easy to use and settings.
  1. Install Docker [here](https://www.docker.com/community-edition) 
